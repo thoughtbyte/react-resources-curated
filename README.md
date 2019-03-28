@@ -19,14 +19,24 @@ A deep understanding of JavaScript is important before digging into React
 ## React, General
 
 - [The React docs: read, reread, reread again](https://reactjs.org/docs/getting-started.html). Reading the docs for anything is always a good idea, but the React docs are exceptionally well written and comprehensive.
+- [Awesome React: A (giant!) collection of awesome things regarding the React ecosystem.](https://github.com/enaqx/awesome-react)
+- []()
 
 ## React, Common Patterns
 
+- [All React Conditional Rendering Techniques - Robin Wieruch](https://www.robinwieruch.de/conditional-rendering-react/)
+- [How to Fetch Data in React - Robin Wieruch](https://www.robinwieruch.de/react-fetching-data/)
 - [An Introduction to the New React Context API - Wes Bos](https://wesbos.com/react-context/)
 - [Higher Order Components - Robin Wieruch](https://www.robinwieruch.de/gentle-introduction-higher-order-components/)
 - [Render Props - Tyler McGinnis](https://tylermcginnis.com/react-render-props/)
+- [Introducing React Hooks - React docs](https://reactjs.org/docs/hooks-intro.html)
 - [React Component Types: A complete Overview - Robin Wieruch](https://www.robinwieruch.de/react-component-types): this covers the history of React component patterns, including some patterns no longer used.
 - [React Function Components by Example - Robin Wieruch](https://www.robinwieruch.de/react-function-component/)
+
+## React, Testing, etc.
+
+- [React Testing Tutorial - Robin Wieruch](https://www.robinwieruch.de/react-testing-tutorial/)
+- [Visual Regression Testing and React Storybook - Robin Wieruch](https://www.robinwieruch.de/visual-regression-testing-react-storybook/)
 
 ## Redux
 
