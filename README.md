@@ -1,5 +1,11 @@
 # react-resources-curated
-a curated collection of React resources
+A curated collection of React resources. You'll notice the same names appear repeatedly. These are some of the best educators in the JavaScript & React communities. Their content is exceptional:
+
+- [Dan Abramov](https://overreacted.io)
+- [Robin Wieruch](https://www.robinwieruch.de)
+- [Tyler McGinnis](https://tylermcginnis.com/blog)
+- [Wes Bos](https://wesbos.com)
+- [The React Training team's blog and courses. These are the folks that created React Router.](https://reacttraining.com)
 
 ## JavaScript
 
@@ -8,9 +14,7 @@ A deep understanding of JavaScript is important before digging into React
 - A comprehensive dive into JavaScript: [You Don't Know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 - A great overview of JavaScript fundamentals, including ES6+: [JavaScript Fundamentals Before Learning React - Robin Wieruch](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
 - Asynchronous JavaScript fundamentals: [From Callbacks to Promises to Async/Await - Tyler McGinnis](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/)
-- Asynchronous JavaScript and the event loop,
-
-- [What the Heck is the Event Loop Anyway? - Philip Roberts (video)](https://www.youtube.com/watch?v=8aGhZQkoFbQ). This is _the_ best discussion of asynchornous JavaScript and the event loop.
+- [What the Heck is the Event Loop Anyway? - Philip Roberts (video)](https://www.youtube.com/watch?v=8aGhZQkoFbQ). This is _the_ best discussion of asynchronous JavaScript and the event loop.
 
 ## React, General
 
@@ -18,6 +22,7 @@ A deep understanding of JavaScript is important before digging into React
 
 ## React, Common Patterns
 
+- [An Introduction to the New React Context API - Wes Bos](https://wesbos.com/react-context/)
 - [Higher Order Components - Robin Wieruch](https://www.robinwieruch.de/gentle-introduction-higher-order-components/)
 - [Render Props - Tyler McGinnis](https://tylermcginnis.com/react-render-props/)
 
@@ -26,3 +31,7 @@ A deep understanding of JavaScript is important before digging into React
 - [The Redux docs](https://redux.js.org/)! Seriously, they are amazing.
 - [Getting Started with Redux - Dan Abramov (video series)](https://egghead.io/courses/getting-started-with-redux)
 - [Building React Apps with Idiomatic Redux - Dan Abramov (video series)](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+
+## React Router
+
+- []()
