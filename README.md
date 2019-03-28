@@ -25,6 +25,8 @@ A deep understanding of JavaScript is important before digging into React
 - [An Introduction to the New React Context API - Wes Bos](https://wesbos.com/react-context/)
 - [Higher Order Components - Robin Wieruch](https://www.robinwieruch.de/gentle-introduction-higher-order-components/)
 - [Render Props - Tyler McGinnis](https://tylermcginnis.com/react-render-props/)
+- [React Component Types: A complete Overview - Robin Wieruch](https://www.robinwieruch.de/react-component-types): this covers the history of React component patterns, including some patterns no longer used.
+- [React Function Components by Example - Robin Wieruch](https://www.robinwieruch.de/react-function-component/)
 
 ## Redux
 
@@ -34,4 +36,4 @@ A deep understanding of JavaScript is important before digging into React
 
 ## React Router
 
-- []()
+- [React Router v4: Philosophy and Introduction - Tyler McGinnis](https://tylermcginnis.com/react-router-philosophy-introduction/)
