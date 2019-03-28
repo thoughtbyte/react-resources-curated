@@ -20,7 +20,7 @@ A deep understanding of JavaScript is important before digging into React
 
 - [The React docs: read, reread, reread again](https://reactjs.org/docs/getting-started.html). Reading the docs for anything is always a good idea, but the React docs are exceptionally well written and comprehensive.
 - [Awesome React: A (giant!) collection of awesome things regarding the React ecosystem.](https://github.com/enaqx/awesome-react)
-- []()
+- [Tips to Learn React + Redux in 2019 - Robin Wieruch](https://www.robinwieruch.de/tips-to-learn-react-redux/)
 
 ## React, Common Patterns
 
